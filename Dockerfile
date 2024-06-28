@@ -1,3 +1,3 @@
 FROM openjdk:21
-ADD ./docker-springboot.jar docker-springboot.jar
+ADD ./docker-spring-boot.jar docker-spring-boot.jar
 ENTRYPOINT ["java", "-jar", "docker-spring-boot.jar"]
