@@ -1,4 +1,4 @@
-# Projeto Java - README
+# CR - API Java com Spring Boot
 
 Este repositório contém uma aplicação Java utilizando Spring Boot, pronta para rodar localmente e configurada para deploy em produção. Abaixo estão os passos necessários para clonar o projeto e iniciar a aplicação em diferentes ambientes.
 
